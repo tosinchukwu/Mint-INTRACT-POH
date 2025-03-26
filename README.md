@@ -7,5 +7,3 @@
 
 
 https://quest.intract.io/quest/67da97141e2cbe18f29b8620
-
-0xD729621F61fC6F4912f636F966Bb82FC3b98F1cB
